@@ -20,3 +20,7 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 - [Twitter](https://twitter.com/jessicadevop)  
 
 Happy coding! 🚀
+
+3D Contributions (requires workflow)
+
+![3D Contributions](https://raw.githubusercontent.com/jessicadevop/jessicadevop/main/profile-3d-contrib/profile-green-animate.svg)
