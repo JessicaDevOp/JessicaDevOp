@@ -24,3 +24,11 @@ Happy coding! 🚀
 3D Contributions (requires workflow)
 
 ![3D Contributions](https://raw.githubusercontent.com/jessicadevop/jessicadevop/main/profile-3d-contrib/profile-green-animate.svg)
+
+![3D Contributions](https://raw.githubusercontent.com/JessicaDevOp/JessicaDevOp/main/profile-3d-contrib/profile-green-animate.svg)
+
+![3D Contributions](https://raw.githubusercontent.com/JessicaDevOp/JessicaDevOp/main/profile-3d-contrib/profile-green-animate.svg)
+
+![Night Mode](https://raw.githubusercontent.com/JessicaDevOp/JessicaDevOp/main/profile-3d-contrib/profile-night-green.svg)
+
+![Snake](https://raw.githubusercontent.com/JessicaDevOp/JessicaDevOp/main/output/github-contribution-grid-snake.svg)
