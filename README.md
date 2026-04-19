@@ -22,11 +22,3 @@ Feel free to explore my repositories and don't hesitate to reach out if you'd li
 Happy coding! 🚀
 
 3D Contributions (requires workflow)
-
-# 3D Contributions
-
-![3D Contributions](https://raw.githubusercontent.com/JessicaDevOp/JessicaDevOp/main/profile-3d-contrib/profile-green-animate.svg)
-
-![Night Contributions](https://raw.githubusercontent.com/JessicaDevOp/JessicaDevOp/main/profile-3d-contrib/profile-night-green.svg)
-
-![Snake](https://raw.githubusercontent.com/JessicaDevOp/JessicaDevOp/main/output/github-contribution-grid-snake.svg)
